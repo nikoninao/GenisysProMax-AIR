@@ -13,4 +13,4 @@
 
 <h2>💖 Понравился проект?</h2>
 
-Donate: https://www.donationalerts.com/r/chejliok
+Donate: https://dalink.to/r/chejliok
